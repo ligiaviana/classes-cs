@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/bin/Debug/net7.0/CursoCSharp
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/bin/Debug/net7.0/CursoCSharp.deps.json
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/bin/Debug/net7.0/CursoCSharp.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/bin/Debug/net7.0/CursoCSharp.dll
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/bin/Debug/net7.0/CursoCSharp.pdb
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.dll
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/refint/CursoCSharp.dll
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.pdb
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/CursoCSharp.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/CursoCSharp/obj/Debug/net7.0/ref/CursoCSharp.dll
